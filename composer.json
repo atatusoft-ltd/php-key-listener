@@ -1,5 +1,5 @@
 {
-  "name": "ignasbernotas/phkey",
+  "name": "atatusoft-ltd/php-key-listener",
   "description": "A PHP based API to capture key presses from the terminal.",
   "keywords": [
     "cli",
@@ -7,18 +7,23 @@
     "keys",
     "key press"
   ],
-  "homepage": "https://iber.lt",
+  "homepage": "https://atatusoft.com",
   "license": "MIT",
   "authors": [
     {
       "name": "Ignas Bernotas",
       "email": "ignas@iber.lt",
       "homepage": "https://iber.lt"
+    },
+    {
+      "name": "Andrew Masiye",
+      "email": "amasiye313@gmail.com",
+      "homepage": "https://atatusoft.com"
     }
   ],
   "support": {
-    "issues": "https://github.com/ignasbernotas/phkey/issues",
-    "source": "https://github.com/ignasbernotas/phkey"
+    "issues": "https://github.com/atatusoft-ltd/php-key-listener/issues",
+    "source": "https://github.com/atatusoft-ltd/php-key-listener"
   },
   "require": {
     "php": ">=8.2",
